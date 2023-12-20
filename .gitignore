@@ -24,3 +24,5 @@ flag.txt
 
 *.swp
 .idea/
+docker/ezproxy-local/license.txt
+
